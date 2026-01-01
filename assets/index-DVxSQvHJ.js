@@ -17765,7 +17765,7 @@ const jE = [
     });
   },
   ME = [
-    { name: "X", href: "https://x.com/2026onpump" },
+    { name: "X", href: "https://x.com/newyear2026eth" },
     {
       name: "Telegram",
       href: "https://x.com/i/communities/1999647908522504425",
