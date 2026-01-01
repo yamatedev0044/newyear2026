@@ -17772,14 +17772,14 @@ const jE = [
     },
     {
       name: "Dexscreener",
-      href: "https://dexscreener.com/ethereum/0xcomingsoon",
+      href: "https://dexscreener.com/ethereum/0xf99defd3b1834cbedec53b4bc788943fa9e30be5",
     },
     {
       name: "Dextools",
-      href: "https://www.dextools.io/app/ether/pair-explorer/0xcomingsoon",
+      href: "https://www.dextools.io/app/ether/pair-explorer/0xf99defd3b1834cbedec53b4bc788943fa9e30be5",
     },
   ],
-  wf = "0xcomingsoon",
+  wf = "0xf99defd3b1834cbedec53b4bc788943fa9e30be5",
   IE = [
     "/videos/vibe-1.mov",
     "/videos/vibe-2.mov",
