@@ -17768,7 +17768,7 @@ const jE = [
     { name: "X", href: "https://x.com/newyear2026eth" },
     {
       name: "Telegram",
-      href: "https://x.com/i/communities/1999647908522504425",
+      href: "https://t.me/newyear2026eth",
     },
     {
       name: "Dexscreener",
